@@ -128,7 +128,7 @@ radar_plot(
 ```
 <img class="thumbnailshadow" src="imgs/plot_1.png"/>
 
-One of the issues we see here is that there is a mix of negatively(lower is better) and positively(higher is better) oriented scores. This can create a bit of confusion when looking at the plot. Maybe if we invert them doing (1 - metric_value) the MAE and MSE it might make more sense?
+One of the issues we see here is that there is a mix of negatively(lower is better) and positively(higher is better) oriented scores. This can create a bit of confusion when looking at the plot. Maybe if we invert the MSE and MAE using(1 - metric_value) then it might make more sense?
 
 Plotting after inverting using the following code - 
 
@@ -153,10 +153,9 @@ Pros-
 - Gives a nice summary of the different metrics/features for different models/data samples etc.
 - Way better than looking at a table and trying to identify what each model is best at.
 - Radar plots are visually very easy to understand and look nice aesthetically.
+- Can be adjusted very easily for multiple metrics.
 
-Can be adjusted very easily for multiple metrics.
 Cons -
-
 - More models/samples can result in visual clutter. e.g - plotting the performance of 10 models like this would look horrible.
 - All data needs to be normalized before plotting.
 - Mixing of positive and negative oriented metrics can lead to confusion.
