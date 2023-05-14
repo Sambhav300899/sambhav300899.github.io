@@ -1,4 +1,13 @@
-# A brief history of me  
+---
+title: "My Professional Timeline"
+description: ""
+
+showDate: false
+showAuthor: false
+invertPagination: true
+showWordCount: false
+showReadingTime: false
+---
 
 {{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 This page is a work in progress 
@@ -6,13 +15,23 @@ This page is a work in progress
 
 {{< timeline >}}
 
+{{< timelineItem icon="spacesense" header="Spacesense.ai" subheader="Freelance ML and CV engineer" badge="Aug 2020 ‑ Oct 2020">}}
+<ul> 
+  <li>Developed POC for an end to end object detection pipeline using satellite images for tracking repairs of damaged roofs.</li>
+  <li>The inference pipeline solved issues for running ML models on very high resolution images and bounding box resolution.</li>
+  <li>The work included dataset creation and annotation, satellite imagery pre and post processing, model benchmarking and a <a href="https://tarp-detection.spacesense.ai/" target="_blank"><b>demo website.</b></a></li>
+</ul>
+<img src="imgs/9.png">
+
+{{< /timelineItem >}}
+
 
 {{< timelineItem icon="manipal" header="Dept. of Comp. Apps, MAHE" subheader="Research Project" badge="Aug 2019 - Aug 2020">}}
 <ul> 
   <li>Implemented SOTA object detection architectures such as YOLOv3 and RetinaNet for localisation of humans in aerial and thermal images.</li>
   <li>As a key member of the research team, I tackled major challenges including boosting the speed of detection and accurately detecting small objects.</li>
   <li>My in-depth understanding of different object detection architectures allowed me to make significant contributions to our use case</li>
-  <li>I helped in creating plots and creating the training pipeline for the SSD model for our paper <a href="https://www.mdpi.com/2079-9292/11/7/1151"><b>"Human Detection in Aerial Thermal Images Using Faster R-CNN and SSD Algorithms</b></a>"</li>
+  <li>I helped in creating plots and creating the training pipeline for the SSD model for our paper <a href="https://www.mdpi.com/2079-9292/11/7/1151" target="_blank"><b>"Human Detection in Aerial Thermal Images Using Faster R-CNN and SSD Algorithms</b></a>"</li>
 </ul>
 
 {{< gallery >}}
