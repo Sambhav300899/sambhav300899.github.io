@@ -24,6 +24,7 @@ This page is a work in progress
 {{< /timelineItem >}}
 
 
+
 {{< timelineItem icon="rugved" header="R.U.G.V.E.D" subheader="AI Subsystem Head" badge="Jan 2018 - Apr 2019">}}
 <ul> 
   <li> Led the AI team consisting of 4 members working on developing an autonomous UGV for automated reconaissance and disaster management. 
@@ -49,3 +50,6 @@ This page is a work in progress
 
 
 {{< /timelineItem >}}
+
+
+{{< /timeline >}}
