@@ -7,14 +7,11 @@ This page is a work in progress
 {{< timeline >}}
 
 
-{{< timelineItem icon="nic" header="NIC, Govt. of India" subheader="Computer Vision and ML intern" badge="Dec 2019 - Jan 2020">}}
+<!-- {{< timelineItem icon="nic" header="NIC, Govt. of India" subheader="Computer Vision and ML intern" badge="Dec 2019 - Jan 2020">}}
 <ul> 
-  <li>Developed semantic segmentation models for multi-spectral very high resolution satellite imagery for buildings, agricultural land
-and trees using Unet based model architectures.</li>
-  <li>Migrated and structured old tree based algorithms into a python library</li>
-  <li>Helped in improving the MIoU by 50% from the previous approach</li>
-  <li>Worked on creating and testing a basic approach for Devanagri alphabet recognition.</li>
-</ul>
+  <li></li>
+  <li></li>
+</ul> -->
 
 
 {{< timelineItem icon="nic" header="NIC, Govt. of India" subheader="Computer Vision and ML intern" badge="Dec 2019 - Jan 2020">}}
