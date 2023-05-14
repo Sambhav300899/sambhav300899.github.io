@@ -4,10 +4,50 @@
 This page is a work in progress 
 {{< /alert >}}
 
-
-This page is a work in progress 
 {{< timeline >}}
 
+
+{{< timelineItem icon="nic" header="NIC, Govt. of India" subheader="Computer Vision and ML intern" badge="Dec 2019 - Jan 2020">}}
+<ul> 
+  <li>Developed semantic segmentation models for multi-spectral very high resolution satellite imagery for buildings, agricultural land
+and trees using Unet based model architectures.</li>
+  <li>Migrated and structured old tree based algorithms into a python library</li>
+  <li>Helped in improving the MIoU by 50% from the previous approach</li>
+  <li>Worked on creating and testing a basic approach for Devanagri alphabet recognition.</li>
+</ul>
+
+
+{{< timelineItem icon="nic" header="NIC, Govt. of India" subheader="Computer Vision and ML intern" badge="Dec 2019 - Jan 2020">}}
+<ul> 
+  <li>Developed semantic segmentation models for multi-spectral very high resolution satellite imagery for buildings, agricultural land
+and trees using Unet based model architectures.</li>
+  <li>Migrated and structured old tree based algorithms into a python library</li>
+  <li>Helped in improving the MIoU by 50% from the previous approach</li>
+  <li>Worked on creating and testing a basic approach for Devanagri alphabet recognition.</li>
+</ul>
+
+{{< /timelineItem >}}
+
+{{< timelineItem icon="rimtex" header="Rimtex Engineering" subheader="Robotics Intern" badge="Sept 2019 - Oct 2019">}}
+<ul> 
+  <li>Developed the complete ROS stack for a warehouse UGV prototype including simulation, perception, localisation and path planning modules.</li>
+</ul>
+
+{{< /timelineItem >}}
+
+{{< timelineItem icon="tata" header="TATA SONS GTIO" subheader="Computer Vision and Robotics Intern" badge="May 2019 - June 2019">}}
+<ul> 
+  <li>Created the technical roadmap of the project based on the task "automated surveillance of buildings by unskilled workers using drones." 
+  <li>Developed and deployed an autonomous one-shot object matching, detection and tracking system using drones as the base platform and the Jetson Nano as the processing board.</li>
+  <li>Created an API for using the DJI Tello SDK with the PixHawk ROS package.
+  <li>Presented live tech demos of the product for the core management team and potential clients</li> 
+  <li>Worked in an office environment for the first time in my life, working under seasoned industry innovators.</li>
+</ul>
+
+{{< youtube HlkFxXoN2C4 >}}
+{{< youtube TePmWCCPWqA >}}
+
+{{< /timelineItem >}}
 
 {{< timelineItem icon="tata" header="TATA SONS GTIO" subheader="Computer Vision and Robotics Intern" badge="May 2019 - June 2019">}}
 <ul> 
