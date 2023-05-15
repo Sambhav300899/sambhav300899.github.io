@@ -13,9 +13,41 @@ showReadingTime: false
 This page is a work in progress 
 {{< /alert >}}
 
+
 {{< timeline >}}
 
-{{< timelineItem icon="spacesense" header="Spacesense.ai" subheader="Freelance ML and CV engineer" badge="Aug 2020 ‑ Oct 2020">}}
+{{< timelineItem icon="spacesense" header="SpaceSense" subheader="ML Engineer and Researcher" badge="Aug 2021 - now">}}
+<ul> 
+  <li>Developed a pipeline to automate training of time series crop type segmentation models from vector label data.</li>
+  <li>Developed a pipeline to automate the training of landcover segmentation models from vector label data and packaged this as a workflow for customers</li>
+  <li>Published <a href="https://www.climatechange.ai/papers/neurips2022/116#recording" target="_blank"><b>CCAI@NeurIPS 2022 tutorial for LULC dataset creation and model training</b></a>.</li>
+  <li>Published technical blogs and took part as a presenter in company webinars.</li>
+  <li>Developed POCs on S2 Super‑resolution and S2 Data Augmentation <a href="https://www.spacesense.ai/platform#data-preparation" target="_blank"><b>Data Preparation for AI</b></a></li>
+  <li>Feature development and refinement for <a href="https://www.spacesense.ai/platform#data-preparation" target="_blank"><b>Data Preparation for AI</b></a>, a toolbox specialized to remote sensing data.</li>
+  <li>Deployment and monitoring of Beyond Cloud for testing by clients.</li>
+</ul>
+
+{{< youtube HQKNZSBWaTE >}}
+
+<!-- 
+<iframe width="500" height="315" src="https://www.youtube.com/embed/HQKNZSBWaTE?start=1900" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+
+
+{{< /timelineItem >}}
+
+{{< timelineItem icon="spacesense" header="SpaceSense" subheader="ML Intern (R&D TEAM)" badge="Mar 2021 ‑ Jul 2021">}}
+<ul> 
+  <li>Beyond Cloud‑ Developed GAN based model to predict S2 vegetative indices from S1 SAR.</li>
+  <li>new models outperformed the previous model with a 30‑40% improvement in the average loss for the test set.</li>
+  <li>Developed a modular and distributed model training pipeline including experimental tracking and artifact storage on GCP.</li>
+  <li>Developed a modular data acquisition pipeline which was used to create a dataset of 120 GB for our image to image translation task.</li>
+  <li>Extensive work on data visualisation and model benchmarking w.r.t both computer vision and remote sensing perspectives.</li>
+</ul>
+<img src="imgs/10.jpg">
+{{< /timelineItem >}}
+
+
+{{< timelineItem icon="spacesense" header="SpaceSense" subheader="Freelance ML and CV engineer" badge="Aug 2020 ‑ Oct 2020">}}
 <ul> 
   <li>Developed POC for an end to end object detection pipeline using satellite images for tracking repairs of damaged roofs.</li>
   <li>The inference pipeline solved issues for running ML models on very high resolution images and bounding box resolution.</li>
@@ -90,13 +122,17 @@ and trees using Unet based model architectures.</li>
 </ul>
 
 {{< gallery >}}
-  <img src="imgs/0.jpg" class="grid-w33" />
-  <img src="imgs/1.jpg" class="grid-w33" />
   <img src="imgs/2.jpg" class="grid-w33" />
+  <img src="imgs/0.jpg" class="grid-w33" />
   <img src="imgs/3.jpg" class="grid-w33" />
+  <img src="imgs/12.jpg" class="grid-w33" />
   <img src="imgs/4.jpg" class="grid-w33" />
   <img src="imgs/5.jpg" class="grid-w33" />
+  <img src="imgs/1.jpg" class="grid-w33" />
+
 {{< /gallery >}}
+
+<br>
 
 {{< youtube bxShcGDC_Zg >}}
 {{< youtube E5TFhxHl1n8 >}}
