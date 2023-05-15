@@ -12,7 +12,7 @@
 
 [[main]]
  name = "Home"
- pageRef = "_index"
+ pageRef = "/"
  weight = 10
 
 [[main]]
