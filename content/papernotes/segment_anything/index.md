@@ -14,8 +14,6 @@ These are notes for my reading of the segment anything paper. Check out the orig
 Segment Anything by Meta AI {{< icon "meta" >}}
 {{< /button >}}
 
-
-
 ## High Level
 
 - Main idea behind the model is to build a foundational model for Computer Vision similar to the state of the NLP community + allow it to be promptable. 
@@ -32,25 +30,24 @@ Segment Anything by Meta AI {{< icon "meta" >}}
 
   - What is the corresponding model architecture?
 
-    -   Real-time flexible promptable model
+    - Real-time flexible promptable model
 
-    -   Flexible here means it must be able give a valid segmentation mask for any prompt. 
+    - Flexible here means it must be able give a valid segmentation mask for any prompt. 
 
-    -   Since the model is supposed to be interactive, it needs real time outputs. 
+    - Since the model is supposed to be interactive, it needs real time outputs. 
 
-    -   Model - 
+    - Model -
 
-        -   a powerful image encoder computes an image embedding
+        - a powerful image encoder computes an image embedding
 
-        -   a prompt encoder embeds prompts
+        - a prompt encoder embeds prompts
 
-        -   Image an prompt embedding sources are combined in a lightweight mask decoder that predicts segmentation masks
+        - Image an prompt embedding sources are combined in a lightweight mask decoder that predicts segmentation masks
 
-    -   Types of supported prompts - 
+    - Types of supported prompts -
+        - Box
 
-        -   Box
-
-        -   Mask
+        - Mask
 
         -   Point
 
