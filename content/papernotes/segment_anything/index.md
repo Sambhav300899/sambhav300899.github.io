@@ -1,7 +1,7 @@
 ---
 title: "Segment Anything"
 date: 2023-05-28
-draft: true
+draft: false
 description: "Taking a look at the paper Segment Anything by Meta AI"
 slug: "segment-anything"
 tags: ["paper notes", "segmentation"]
