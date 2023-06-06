@@ -12,13 +12,13 @@ autoSwitchAppearance = false
 enableSearch = true
 enableCodeCopy = true
 
-# mainSections = ["section1", "section2"]
+mainSections = ["blog", "about"]
 # robots = ""
 
-disableImageOptimization = true
+disableImageOptimization = false
 
 defaultBackgroundImage = "imgs/profile_background.jpg" # used as default for background images 
-# defaultFeaturedImage = "imgs/2.png" # used as default for featured images in all articles
+defaultFeaturedImage = "imgs/profile_background.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -66,8 +66,8 @@ smartTOCHideUnfocusedChildren = true
   invertPagination = false
   showReadingTime = true
   showTableOfContents = true
-  # showRelatedContent = false
-  # relatedContentLimit = 3
+  showRelatedContent = false
+  relatedContentLimit = 3
   showTaxonomies = true
   showAuthorsBadges = true
   showWordCount = true
@@ -75,8 +75,8 @@ smartTOCHideUnfocusedChildren = true
   sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
 
 [list]
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
@@ -96,7 +96,7 @@ smartTOCHideUnfocusedChildren = true
 [taxonomy]
   showTermCount = true
   showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
@@ -104,8 +104,8 @@ smartTOCHideUnfocusedChildren = true
   cardView = false
 
 [term]
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
