@@ -17,8 +17,8 @@ mainSections = ["blog", "about"]
 
 disableImageOptimization = false
 
-defaultBackgroundImage = "imgs/profile_background.jpg" # used as default for background images 
-defaultFeaturedImage = "imgs/profile_background.jpg" # used as default for featured images in all articles
+defaultBackgroundImage = "imgs/profile_background_12212.jpg" # used as default for background images 
+defaultFeaturedImage = "imgs/profile_background_121.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 smartTOC = true
