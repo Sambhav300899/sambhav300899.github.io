@@ -1,10 +1,13 @@
 ---
-title: "DBSCAN clustering and reverse geocoding for geospatial data"
+title: DBSCAN clustering and reverse geocoding for geospatial data
 date: 2023-06-06
 draft: false
-description: "Learn how to cluster and reverse geocode geospatial data"
-slug: "dbscan-clustering"
-tags: ["clustering", "visualization", "geospatial"]
+description: Learn how to cluster and reverse geocode geospatial data
+slug: dbscan-clustering
+tags:
+  - clustering
+  - visualization
+  - geospatial
 ---
 
 ## Motive
