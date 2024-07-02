@@ -25,7 +25,7 @@
 <meta name=twitter:image content="https://sambhav300899.github.io/barbershop_ai/week-2/featured.png">
 <meta name=twitter:title content="Week 2 - Building a toy">
 <meta name=twitter:description content="Week 2 of building Barbershop AI">
-<script type=application/ld+json>[{"@context":"https://schema.org","@type":"Article","articleSection":"Building Barbershop AI","name":"Week 2 - Building a toy","headline":"Week 2 - Building a toy","description":"Week 2 of building Barbershop AI","abstract":"What happened in week 2? #  Well, I was unfortunately for most of the week, but oh well. This week was meant for creating a toy of the product.","inLanguage":"en","url":"https:\/\/sambhav300899.github.io\/barbershop_ai\/week-2\/","author":{"@type":"Person","name":"Sambhav Singh Rohatgi"},"copyrightYear":"2024","dateCreated":"2024-07-01T00:00:00\u002b00:00","datePublished":"2024-07-01T00:00:00\u002b00:00","dateModified":"2024-07-01T00:00:00\u002b00:00","mainEntityOfPage":"true","wordCount":"307"}]</script>
+<script type=application/ld+json>[{"@context":"https://schema.org","@type":"Article","articleSection":"Building Barbershop AI","name":"Week 2 - Building a toy","headline":"Week 2 - Building a toy","description":"Week 2 of building Barbershop AI","abstract":"What happened in week 2? #  Well, I was unfortunately sick for most of the week, but oh well. This week was meant for creating a toy of the product.","inLanguage":"en","url":"https:\/\/sambhav300899.github.io\/barbershop_ai\/week-2\/","author":{"@type":"Person","name":"Sambhav Singh Rohatgi"},"copyrightYear":"2024","dateCreated":"2024-07-01T00:00:00\u002b00:00","datePublished":"2024-07-01T00:00:00\u002b00:00","dateModified":"2024-07-01T00:00:00\u002b00:00","mainEntityOfPage":"true","wordCount":"330"}]</script>
 <meta name=author content="Sambhav Singh Rohatgi">
 <link href=mailto:sambhav300899@gmail.com rel=me>
 <link href=https://github.com/Sambhav300899 rel=me>
@@ -170,7 +170,7 @@ Week 2 - Building a toy
 </h1>
 <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
 <div class="flex flex-row flex-wrap items-center">
-<span>307 words</span><span class="px-2 text-primary-500">&#183;</span><span title="Reading time">2 mins</span>
+<span>330 words</span><span class="px-2 text-primary-500">&#183;</span><span title="Reading time">2 mins</span>
 </div>
 <div class="flex flex-row flex-wrap items-center">
 </div>
@@ -220,11 +220,11 @@ Table of Contents
 <span class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
 <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style=text-decoration-line:none!important href=#what-happened-in-week-2 aria-label=Anchor>#</a></span>
 </h2>
-<p>Well, I was unfortunately for most of the week, but oh well. This week was meant for creating a toy of the product. The main things I did were -</p>
+<p>Well, I was unfortunately sick for most of the week, but oh well. This week was meant for creating a toy of the product. The main things that I did were -</p>
 <ol>
 <li>Tried to look at some literature about virtual hairstyle tryon and see if there is anything I can use.</li>
 <li>Used one existing repo <a href=https://github.com/ZPdesu/Barbershop target=_blank>
-Barbershop</a> (based on GAN inversion + blending) to try and build a toy using gradio.</li>
+Barbershop</a> (based on GAN inversion + blending) to try and build a toy using gradio for the UI.</li>
 <li>Carried out some tests with images to see what sort of results I could get! (find them in the <a href=#some-sample-results>
 sample results</a> section)</li>
 </ol>
@@ -242,9 +242,9 @@ sample results</a> section)</li>
 </h2>
 <ol>
 <li>The pipeline is slow, the embedding step specially takes the most time. It takes around ~7 mins to generate one result locally (with a RTX 3070) at 1024x1024. It&rsquo;s annoying to play around and experiment with params due to this. Need to make this quicker for sure.</li>
-<li>It&rsquo;s hard to make any assumptions about reasons of why performance is going wrong due to the lack of samples having been generated with different settings.</li>
+<li>It&rsquo;s hard to make any assumptions about reasons as to conditions where the pipeline is going wrong due to the lack of samples having been generated with different settings.</li>
 <li>The alignment step done using the dlib face detector doesn&rsquo;t work well at times to extract faces from the images.</li>
-<li>The facial area is cropped to only areas near the face, this results in the whole profile of the hair not being captured for images of women. Pretty big issue!</li>
+<li>The facial area is cropped to only areas near the face, this results in the whole profile of the hair not being captured. This is a pretty big issue for images of women, since hair isn&rsquo;t localised to only the facial zone. Pretty big issue!</li>
 <li>The process also ends up blending the facial structure a lot which is another issue. So pose + facial structure of reference image matters a lot for this pipeline.</li>
 <li>The results aren&rsquo;t too great for the examples I tried out, maybe I need to experiment with the various params more though.</li>
 <li>Atleast provides a decent baseline for further work!</li>
