@@ -3,10 +3,12 @@ title: "Part 1: Hosting your custom MLflow server on GCP VM"
 date: 2024-06-16
 draft: false
 description: Host your own MLflow experiment tracking server on GCP with a VM
-slug: mlflow-on-gcp
+slug: mlflow-on-gcp-1
 tags:
   - mlops
   - gcp
+series: ["MLflow on GCP"]
+series_order: 1
 ---
 
 <!-- Contents-
