@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
 [author]
    name = "Sambhav Singh Rohatgi"
     image = "img/2.jpg"
-   headline = "Computer Vision and ML researcher & engineer"
+   headline = "Working on ideas that inspire me"
 #   bio = "A little bit about you"
   links = [
     { email = "mailto:sambhav300899@gmail.com" },

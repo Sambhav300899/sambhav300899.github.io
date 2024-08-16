@@ -22,7 +22,7 @@ defaultFeaturedImage = "imgs/profile_background.jpg" # used as default for featu
 
 highlightCurrentMenuArea = true
 smartTOC = true
-smartTOCHideUnfocusedChildren = true
+smartTOCHideUnfocusedChildren = false
 
 [header]
   layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
