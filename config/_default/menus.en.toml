@@ -25,10 +25,10 @@
  pageRef = "blog"
  weight = 30
 
-[[main]]
- name = "Barbershop AI"
- pageRef = "Barbershop_ai"
- weight = 30
+# [[main]]
+#  name = "Barbershop AI"
+#  pageRef = "Barbershop_ai"
+#  weight = 30
 
 
 [[main]]
