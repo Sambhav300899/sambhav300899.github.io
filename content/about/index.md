@@ -195,8 +195,6 @@ You can find my detailed CV <a href="https://drive.google.com/file/d/1MJmAwludn_
     </tbody>
 </table>
 
-## Embedded PDF
-
 
 ---
 
