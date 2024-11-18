@@ -2,6 +2,8 @@
 title: "Part 2: Deploy your custom MLflow server on GCP with Cloud run and github actions"
 date: 2024-08-11
 draft: false
+showDate: true
+showAuthor: true
 description: Host your own MLflow experiment tracking server on Cloud run using github actions 
 slug: mlflow-on-gcp-2
 tags:

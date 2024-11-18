@@ -1,7 +1,7 @@
 ---
 title: Week 2 - Building a toy
 date: 2024-07-01
-draft: false
+draft: true
 description: Week 2 of building Barbershop AI
 slug: Week 2
 tags:

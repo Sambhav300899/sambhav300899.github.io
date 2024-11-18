@@ -1,10 +1,14 @@
 ---
-title: A pipeline for creating geospatial datasets
+title: A pipeline for creating Geospatial AI datasets
 date: 2024-09-25
 draft: false
-description: A pipeline for creating geospatial datasets 
+showDate: true
+showAuthor: true
+description: A pipeline for creating geospatial ML datasets 
 slug: geospatial-dataset-creation-sample-pipeline
-tags:
+tags: 
+  - geospatial
+  - machine learning
 ---
 
 <iframe width="650" height="315" src="https://www.youtube.com/embed/irj_v3uHLy4?si=abe65Ny-Ds_coZh2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

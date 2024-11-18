@@ -1,7 +1,8 @@
 ---
 title: "Using Radar Plots to Compare Model Performance"
 date: 2023-05-09
-draft: false
+showDate: true
+showAuthor: true
 description: "Learn about advanatges and disadvantages of radar plots for benchmarking models"
 slug: "radar-plots"
 tags: ["visualisation"]

@@ -2,6 +2,8 @@
 title: DBSCAN clustering and reverse geocoding for geospatial data
 date: 2023-06-06
 draft: false
+showDate: true
+showAuthor: true
 description: Learn how to cluster and reverse geocode geospatial data
 slug: dbscan-clustering
 tags:
@@ -9,7 +11,6 @@ tags:
   - visualization
   - geospatial
 ---
-
 ## Motive
 The motive of the following post is to take a look at how to cluster geospatial data using the **Density-Based Spatial Clustering of Applications with Noise** (DBSCAN) algorithm. 
 

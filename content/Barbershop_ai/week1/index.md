@@ -1,7 +1,7 @@
 ---
 title: Week 1 - Select an idea
 date: 2024-06-24
-draft: false
+draft: true
 description: Week 1 of building Barbershop AI
 slug: Week 1
 tags:
