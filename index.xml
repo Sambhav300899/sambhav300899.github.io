@@ -1,3 +1,235 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sambhav Singh Rohatgi</title><link>https://sambhav300899.github.io/</link><description>Recent content on Sambhav Singh Rohatgi</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sambhav300899.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>A pipeline for creating geospatial datasets</title><link>https://sambhav300899.github.io/blog/geospatial-dataset-creation-sample-pipeline/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate><guid>https://sambhav300899.github.io/blog/geospatial-dataset-creation-sample-pipeline/</guid><description>Motivation # I&amp;rsquo;m working as an industry expert on a research project at UC Irvine, led by Dr. Nadia Ahmed. Our team is studying how satellite imagery can be used to track animal migration.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sambhav300899.github.io/blog/geospatial-dataset-creation-sample-pipeline/featured.png"/></item><item><title>Part 2: Deploy your custom MLflow server on GCP with Cloud run and github actions</title><link>https://sambhav300899.github.io/blog/mlflow-on-gcp-2/</link><pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate><guid>https://sambhav300899.github.io/blog/mlflow-on-gcp-2/</guid><description>Sambhav300899/mlflow-gcp-server Python 0 0 Motive # In part 1 of the series, we looked at how we can host our own tracking server on GCP using a VM, we did see many issues with the earlier approach though, with regards to authentication, versioning, manual resource management etc.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sambhav300899.github.io/blog/mlflow-on-gcp-2/featured.png"/></item><item><title>Week 2 - Building a toy</title><link>https://sambhav300899.github.io/barbershop_ai/week-2/</link><pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate><guid>https://sambhav300899.github.io/barbershop_ai/week-2/</guid><description>What happened in week 2? # Well, I was unfortunately sick for most of the week, but oh well. This week was meant for creating a toy of the product.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sambhav300899.github.io/barbershop_ai/week-2/featured.png"/></item><item><title>Week 1 - Select an idea</title><link>https://sambhav300899.github.io/barbershop_ai/week-1/</link><pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate><guid>https://sambhav300899.github.io/barbershop_ai/week-1/</guid><description>What is this? # This is my first week of building barbershop AI, an app to try out different hairstyles virtually. The motive of the first week was to select an idea and this is the one I landed on.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sambhav300899.github.io/barbershop_ai/week-1/featured.png"/></item><item><title>Part 1: Hosting your custom MLflow server on GCP VM</title><link>https://sambhav300899.github.io/blog/mlflow-on-gcp-1/</link><pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate><guid>https://sambhav300899.github.io/blog/mlflow-on-gcp-1/</guid><description>Motive # MLflow is a popular library for experiment tracking for Machine Learning. In addition to experiment tracking, it also offers a model registery and tracking platform. MLFlow can be used with a local database and artifact store, this is usually good enough for running experiments personally.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sambhav300899.github.io/blog/mlflow-on-gcp-1/featured.png"/></item><item><title>YOLO V4</title><link>https://sambhav300899.github.io/papernotes/yolo-v5/</link><pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate><guid>https://sambhav300899.github.io/papernotes/yolo-v5/</guid><description>These are notes for my reading of the YOLO v5 paper. Check out the orignal paper at the link below
-YOLO v4 -- High Level # They create a CNN that operates in real time on a conventional GPU and can be trained on a single GPU as well.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sambhav300899.github.io/papernotes/yolo-v5/featured.png"/></item><item><title>DBSCAN clustering and reverse geocoding for geospatial data</title><link>https://sambhav300899.github.io/blog/dbscan-clustering/</link><pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate><guid>https://sambhav300899.github.io/blog/dbscan-clustering/</guid><description>Motive # The motive of the following post is to take a look at how to cluster geospatial data using the Density-Based Spatial Clustering of Applications with Noise (DBSCAN) algorithm.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sambhav300899.github.io/blog/dbscan-clustering/featured.png"/></item><item><title>Segment Anything</title><link>https://sambhav300899.github.io/papernotes/segment-anything/</link><pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate><guid>https://sambhav300899.github.io/papernotes/segment-anything/</guid><description>These are notes for my reading of the segment anything paper. Check out the orignal project page by Meta AI at the link below
-Segment Anything by Meta AI High Level # Main idea behind the model is to build a foundational model for Computer Vision similar to the state of the NLP community + allow it to be promptable.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sambhav300899.github.io/papernotes/segment-anything/featured.png"/></item><item><title>Using Radar Plots to Compare Model Performance</title><link>https://sambhav300899.github.io/blog/radar-plots/</link><pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate><guid>https://sambhav300899.github.io/blog/radar-plots/</guid><description>Motive # Does looking at a table comparing model peformance across multiple metrics feel bothersome to you? Lets see how radar plots can help us quickly visually compare model performance across multiple metrics.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sambhav300899.github.io/blog/radar-plots/featured.png"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sambhav Singh Rohatgi</title><link>https://sambhav300899.github.io/</link><description>Recent content on Sambhav Singh Rohatgi</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>sambhav300899@gmail.com (Sambhav Singh Rohatgi)</managingEditor><webMaster>sambhav300899@gmail.com (Sambhav Singh Rohatgi)</webMaster><copyright>© 2024 Sambhav Singh Rohatgi</copyright><lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sambhav300899.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Resume</title><link>https://sambhav300899.github.io/about/</link><pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate><author>sambhav300899@gmail.com (Sambhav Singh Rohatgi)</author><guid>https://sambhav300899.github.io/about/</guid><description>&lt;style>
+.experience-table {
+width: 100%;
+border-collapse: collapse;
+}
+.experience-table th, .experience-table td {
+padding: 10px;
+text-align: left;
+vertical-align: middle;
+}
+.experience-table .logo-cell {
+width: 100px;
+text-align: center;
+vertical-align: middle;
+display: table-cell;
+}
+.experience-table img {
+max-width: 80px; /* Adjust size as needed */
+height: auto;
+}
+/* Add media query for responsiveness */
+@media (max-width: 600px) {
+.experience-table, .experience-table thead, .experience-table tbody, .experience-table th, .experience-table td, .experience-table tr {
+display: block;
+width: 100%;
+}
+.experience-table thead {
+display: none; /* Hide table header on mobile */
+}
+.experience-table tr {
+margin-bottom: 15px;
+}
+.experience-table td {
+text-align: right;
+padding-left: 50%;
+position: relative;
+}
+.experience-table td::before {
+content: attr(data-label);
+position: absolute;
+left: 0;
+width: 50%;
+padding-left: 10px;
+font-weight: bold;
+text-align: left;
+}
+.experience-table td[data-label="Company"]::before {
+content: none;
+}
+.experience-table .logo-cell {
+text-align: center; /* Center align logos on mobile */
+padding-right: 0; /* Remove padding for logo cells */
+padding-left: 0;
+}
+}
+&lt;/style>
+&lt;h2 class="relative group">Experience
+&lt;div id="experience" class="anchor">&lt;/div>
+&lt;/h2>
+&lt;table class="experience-table">
+&lt;thead>
+&lt;tr>
+&lt;th>Company&lt;/th>
+&lt;th>Link&lt;/th>
+&lt;th>Role&lt;/th>
+&lt;th>Dates&lt;/th>
+&lt;th>Location&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td class="logo-cell" data-label="Company">&lt;img class="customEntitityLogo" src="UCI.png"/>&lt;/td>
+&lt;td data-label="Link">&lt;a href="https://www.uci.edu/" target="_blank">UC Irvine&lt;/a>&lt;/td>
+&lt;td data-label="Role">Geo AI Research Collaborator with Dr. Nadia Ahmed&lt;/td>
+&lt;td data-label="Dates">2024-08 - Present&lt;/td>
+&lt;td data-label="Location">Remote&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="logo-cell" data-label="Company">&lt;img class="customEntitityLogo" src="vve.png"/>&lt;/td>
+&lt;td data-label="Link">&lt;a href="https://www.valvodengine.com/" target="_blank">Val-Vod-Engine&lt;/a>&lt;/td>
+&lt;td data-label="Role">Founder &amp; Solo dev&lt;/td>
+&lt;td data-label="Dates">2024-08 - Present&lt;/td>
+&lt;td data-label="Location">Remote&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="logo-cell" data-label="Company">&lt;img class="customEntitityLogo" src="xfarm.png"/>&lt;/td>
+&lt;td data-label="Link">&lt;a href="https://xfarm.ag/en" target="_blank">xFarm Technologies&lt;/a>&lt;/td>
+&lt;td data-label="Role">Lead Geo AI Research Engineer&lt;/td>
+&lt;td data-label="Dates">2023-12 - 2024-08&lt;/td>
+&lt;td data-label="Location">Paris, FR&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td rowspan=3 class="logo-cell" data-label="Company">&lt;img class="customEntitityLogo" src="ss.png"/>&lt;/td>
+&lt;td rowspan=3 data-label="Link">&lt;a href="https://www.spacesense.ai/" target="_blank">Spacesense (acquired by xFarm)&lt;/a>&lt;/td>
+&lt;td data-label="Role">Lead Geo AI Research Engineer&lt;/td>
+&lt;td data-label="Dates">2021-08 - 2023-12&lt;/td>
+&lt;td data-label="Location">Paris, FR&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-label="Role">ML Intern&lt;/td>
+&lt;td data-label="Dates">2021-02 - 2021-07&lt;/td>
+&lt;td data-label="Location">Paris, FR&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-label="Role">Freelance ML Engineer&lt;/td>
+&lt;td data-label="Dates">2020-08 - 2020-10&lt;/td>
+&lt;td data-label="Location">Remote&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="logo-cell" data-label="Company">&lt;img class="customEntitityLogo" src="nic.png"/>&lt;/td>
+&lt;td data-label="Link">&lt;a href="https://www.meity.gov.in/" target="_blank">National Informatics Center, Ministry of Electronics and IT&lt;/a>&lt;/td>
+&lt;td data-label="Role">ML Intern&lt;/td>
+&lt;td data-label="Dates">2019-12 - 2020-01&lt;/td>
+&lt;td data-label="Location">Delhi, India&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="logo-cell" data-label="Company">&lt;img class="customEntitityLogo" src="manipal.jpg"/>&lt;/td>
+&lt;td data-label="Link">&lt;a href="https://www.manipal.edu/mit/department-faculty/department-list/computer-applications.html" target="_blank">Dept. of Computer Applications, Manipal Institute of Technology&lt;/a>&lt;/td>
+&lt;td data-label="Role">Volunteer Researcher&lt;/td>
+&lt;td data-label="Dates">2019-08 - 2019-11&lt;/td>
+&lt;td data-label="Location">Manipal, India&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="logo-cell" data-label="Company">&lt;img class="customEntitityLogo" src="tata.png"/>&lt;/td>
+&lt;td data-label="Link">&lt;a href="https://www.tata.com/" target="_blank">TATA Sons&lt;/a>&lt;/td>
+&lt;td data-label="Role">Computer Vision and Robotics Intern&lt;/td>
+&lt;td data-label="Dates">2019-05 - 2019-07&lt;/td>
+&lt;td data-label="Location">Bangalore, India&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="logo-cell" data-label="Company">&lt;img class="customEntitityLogo" src="rugved.jpeg"/>&lt;/td>
+&lt;td data-label="Link">&lt;a href="https://www.manipal.edu/mit/why/student-projects-manipal-university/rugved-systems.html" target="_blank">RUGVED Systems&lt;/a>&lt;/td>
+&lt;td data-label="Role">AI Subteam Head&lt;/td>
+&lt;td data-label="Dates">2018-01 - 2018-12&lt;/td>
+&lt;td data-label="Location">Manipal, India&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 class="relative group">Publications
+&lt;div id="publications" class="anchor">&lt;/div>
+&lt;/h2>
+&lt;table class="experience-table">
+&lt;thead>
+&lt;tr>
+&lt;th>Title&lt;/th>
+&lt;th>Authors&lt;/th>
+&lt;th>Date&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td data-label="Title">&lt;b>[GEOINT 2023]&lt;/b>&lt;a href="https://colab.research.google.com/drive/12GEvQ8K3sqjvIec9izseoxon7WTBP_gv?authuser=2" target="_blank"> Data Preparation Techniques for Robust ML/DL Training for Practical Remote Sensing Applications&lt;/a>&lt;/td>
+&lt;td data-label="Authors">Sambhav Singh Rohatgi, Jyotsna Buddideti&lt;/td>
+&lt;td data-label="Date">Apr 2023&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-label="Title">&lt;b>[CCAI@NeurIPS 2022]&lt;/b>&lt;a href="https://www.climatechange.ai/papers/neurips2022/116" target="_blank"> Automating the creation of LULC datasets for semantic segmentation&lt;/a>&lt;/td>
+&lt;td data-label="Authors">Sambhav Singh Rohatgi, Anthony Mucia&lt;/td>
+&lt;td data-label="Date">Dec 2022&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-label="Title">&lt;b>[Electronics11071151]&lt;/b>&lt;a href="https://www.mdpi.com/2079-9292/11/7/1151" target="_blank"> Human Detection in Aerial Thermal Images Using Faster R-CNN and SSD Algorithms&lt;/a>&lt;/td>
+&lt;td data-label="Authors">K. R. Akshatha, A. Kotegar Karunakar, Satish Shenoy, Abhilash Pai, Nikhil Nagaraj, Sambhav S. Rohatgi&lt;/td>
+&lt;td data-label="Date">Apr 2022&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;hr></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sambhav300899.github.io/about/featured.JPG"/></item><item><title>A pipeline for creating Geospatial AI datasets</title><link>https://sambhav300899.github.io/blog/geospatial-dataset-creation-sample-pipeline/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate><author>sambhav300899@gmail.com (Sambhav Singh Rohatgi)</author><guid>https://sambhav300899.github.io/blog/geospatial-dataset-creation-sample-pipeline/</guid><description>&lt;iframe width="650" height="315" src="https://www.youtube.com/embed/irj_v3uHLy4?si=abe65Ny-Ds_coZh2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+&lt;h2 class="relative group">Motivation
+&lt;div id="motivation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#motivation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>I&amp;rsquo;m working as an industry expert on a research project at &lt;a href="https://uci.edu/" target="_blank">UC Irvine&lt;/a>, led by &lt;a href="https://www.linkedin.com/in/nadia-a/" target="_blank">Dr. Nadia Ahmed&lt;/a>. Our team is studying how satellite imagery can be used to track animal migration. To help my teammates understand the process of geospatial dataset creation, I created a flowchart. This flowchart gives a clear picture of the steps involved in preparing geospatial datasets for Machine Learning.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sambhav300899.github.io/blog/geospatial-dataset-creation-sample-pipeline/featured.png"/></item><item><title>Part 2: Deploy your custom MLflow server on GCP with Cloud run and github actions</title><link>https://sambhav300899.github.io/blog/mlflow-on-gcp-2/</link><pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate><author>sambhav300899@gmail.com (Sambhav Singh Rohatgi)</author><guid>https://sambhav300899.github.io/blog/mlflow-on-gcp-2/</guid><description>&lt;a id="github-6a37d74da3198b2f805514c8929e5016" target="_blank" href="https://github.com/Sambhav300899/mlflow-gcp-server" class="cursor-pointer">
+&lt;div
+class="w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl">
+&lt;div class="flex items-center">
+&lt;span class="text-2xl text-neutral-800 dark:text-neutral" style="margin-right:10px;">
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512">&lt;path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;div
+id="github-6a37d74da3198b2f805514c8929e5016-full_name"
+class="m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">
+Sambhav300899/mlflow-gcp-server
+&lt;/div>
+&lt;/div>
+&lt;p id="github-6a37d74da3198b2f805514c8929e5016-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral">
+&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sambhav300899.github.io/blog/mlflow-on-gcp-2/featured.png"/></item><item><title>Part 1: Hosting your custom MLflow server on GCP VM</title><link>https://sambhav300899.github.io/blog/mlflow-on-gcp-1/</link><pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate><author>sambhav300899@gmail.com (Sambhav Singh Rohatgi)</author><guid>https://sambhav300899.github.io/blog/mlflow-on-gcp-1/</guid><description>&lt;!-- Contents-
+- [Motive](#motive)
+- [Create backed DB](#create backend DB)
+- [Create GCS bucket](#create GCS bucket)
+- [Create VM instance](#create VM instance)
+- [Add firewall rule](#add firewall rule)
+- [Run the MLflow server on the VM](#Run the MLflow server on the VM)
+- [Access the MLflow dashboard](#Access the MLflow dashboard)
+- [Running a sample experiment](#Running a sample experiment)
+- [Issues with current approach ](#Issues with current approach )
+-->
+&lt;h2 class="relative group">Motive
+&lt;div id="motive" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#motive" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>MLflow is a popular library for experiment tracking for Machine Learning. In addition to experiment tracking, it also offers a model registery and tracking platform. MLFlow can be used with a local database and artifact store, this is usually good enough for running experiments personally. When we need multiple people to work on the same experiment or run training as a job, we need to host a remote MLflow server.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sambhav300899.github.io/blog/mlflow-on-gcp-1/featured.png"/></item><item><title>YOLO V4</title><link>https://sambhav300899.github.io/papernotes/yolo-v5/</link><pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate><author>sambhav300899@gmail.com (Sambhav Singh Rohatgi)</author><guid>https://sambhav300899.github.io/papernotes/yolo-v5/</guid><description>&lt;p>These are notes for my reading of the YOLO v5 paper. Check out the orignal paper at the link below&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sambhav300899.github.io/papernotes/yolo-v5/featured.png"/></item><item><title>DBSCAN clustering and reverse geocoding for geospatial data</title><link>https://sambhav300899.github.io/blog/dbscan-clustering/</link><pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate><author>sambhav300899@gmail.com (Sambhav Singh Rohatgi)</author><guid>https://sambhav300899.github.io/blog/dbscan-clustering/</guid><description>&lt;h2 class="relative group">Motive
+&lt;div id="motive" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#motive" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>The motive of the following post is to take a look at how to cluster geospatial data using the &lt;strong>Density-Based Spatial Clustering of Applications with Noise&lt;/strong> (DBSCAN) algorithm.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sambhav300899.github.io/blog/dbscan-clustering/featured.png"/></item><item><title>Segment Anything</title><link>https://sambhav300899.github.io/papernotes/segment-anything/</link><pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate><author>sambhav300899@gmail.com (Sambhav Singh Rohatgi)</author><guid>https://sambhav300899.github.io/papernotes/segment-anything/</guid><description>&lt;p>These are notes for my reading of the segment anything paper. Check out the orignal project page by Meta AI at the link below&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sambhav300899.github.io/papernotes/segment-anything/featured.png"/></item><item><title>Using Radar Plots to Compare Model Performance</title><link>https://sambhav300899.github.io/blog/radar-plots/</link><pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate><author>sambhav300899@gmail.com (Sambhav Singh Rohatgi)</author><guid>https://sambhav300899.github.io/blog/radar-plots/</guid><description>&lt;!-- Contents-
+- [Motive](#motive)
+- [What are radar plots?](#what-are-radar-plots)
+- [Sample data](#sample-data)
+- [Data Normalisation](#data-normalisation)
+- [Plotting the data](#plotting-the-data)
+- [Conclusions](#conclusions) -->
+&lt;h2 class="relative group">Motive
+&lt;div id="motive" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#motive" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Does looking at a table comparing model peformance across multiple metrics feel bothersome to you? Lets see how radar plots can help us quickly visually compare model performance across multiple metrics.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sambhav300899.github.io/blog/radar-plots/featured.png"/></item></channel></rss>

@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>visualisation on Sambhav Singh Rohatgi</title><link>https://sambhav300899.github.io/tags/visualisation/</link><description>Recent content in visualisation on Sambhav Singh Rohatgi</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sambhav300899.github.io/tags/visualisation/index.xml" rel="self" type="application/rss+xml"/><item><title>Using Radar Plots to Compare Model Performance</title><link>https://sambhav300899.github.io/blog/radar-plots/</link><pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate><guid>https://sambhav300899.github.io/blog/radar-plots/</guid><description>Motive # Does looking at a table comparing model peformance across multiple metrics feel bothersome to you? Lets see how radar plots can help us quickly visually compare model performance across multiple metrics.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Visualisation on Sambhav Singh Rohatgi</title><link>https://sambhav300899.github.io/tags/visualisation/</link><description>Recent content in Visualisation on Sambhav Singh Rohatgi</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>sambhav300899@gmail.com (Sambhav Singh Rohatgi)</managingEditor><webMaster>sambhav300899@gmail.com (Sambhav Singh Rohatgi)</webMaster><copyright>© 2024 Sambhav Singh Rohatgi</copyright><lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sambhav300899.github.io/tags/visualisation/index.xml" rel="self" type="application/rss+xml"/><item><title>Using Radar Plots to Compare Model Performance</title><link>https://sambhav300899.github.io/blog/radar-plots/</link><pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate><author>sambhav300899@gmail.com (Sambhav Singh Rohatgi)</author><guid>https://sambhav300899.github.io/blog/radar-plots/</guid><description>&lt;!-- Contents-
+- [Motive](#motive)
+- [What are radar plots?](#what-are-radar-plots)
+- [Sample data](#sample-data)
+- [Data Normalisation](#data-normalisation)
+- [Plotting the data](#plotting-the-data)
+- [Conclusions](#conclusions) -->
+&lt;h2 class="relative group">Motive
+&lt;div id="motive" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#motive" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Does looking at a table comparing model peformance across multiple metrics feel bothersome to you? Lets see how radar plots can help us quickly visually compare model performance across multiple metrics.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sambhav300899.github.io/blog/radar-plots/featured.png"/></item></channel></rss>
