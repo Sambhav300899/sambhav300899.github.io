@@ -83,6 +83,9 @@ showZenMode: false
 
 ## Experience
 
+You can find my detailed CV <a href="https://drive.google.com/file/d/1MJmAwludn_qDEmETcdabf_bKFYIlbomV/view" target="_blank">here</a>.
+
+
 <table class="experience-table">
     <thead>
         <tr>
@@ -191,6 +194,9 @@ showZenMode: false
         </tr>
     </tbody>
 </table>
+
+## Embedded PDF
+
 
 ---
 
