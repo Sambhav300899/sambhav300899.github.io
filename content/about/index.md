@@ -81,6 +81,10 @@ showZenMode: false
     }
 </style>
 
+## What am I doing currently? 
+
+I am currently on a sabbatical and applying for my MS.
+
 ## Experience
 
 You can find my detailed CV <a href="https://drive.google.com/file/d/1MJmAwludn_qDEmETcdabf_bKFYIlbomV/view" target="_blank">here</a>.
