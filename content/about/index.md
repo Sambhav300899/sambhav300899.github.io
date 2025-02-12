@@ -81,10 +81,6 @@ showZenMode: false
     }
 </style>
 
-## What am I doing currently? 
-
-I am currently on a sabbatical and applying for my MS. 
-
 ## Experience
 
 You can find my detailed CV <a href="https://drive.google.com/file/d/1MJmAwludn_qDEmETcdabf_bKFYIlbomV/view" target="_blank">here</a>.
@@ -118,7 +114,7 @@ You can find my detailed CV <a href="https://drive.google.com/file/d/1MJmAwludn_
         <tr>
             <td class="logo-cell" data-label="Company"><img class="customEntitityLogo" src="xfarm.png"/></td>
             <td data-label="Link"><a href="https://xfarm.ag/en" target="_blank">xFarm Technologies</a></td>
-            <td data-label="Role">Lead Geo AI Research Engineer</td>
+            <td data-label="Role">Geo AI Research Engineer</td>
             <td data-label="Dates">2023-12 - Present</td>
             <td data-label="Location">Paris, FR</td>
         </tr>
