@@ -100,7 +100,7 @@ You can find my detailed CV <a href="https://drive.google.com/file/d/1MJmAwludn_
         <tr>
             <td class="logo-cell" data-label="Company"><img class="customEntitityLogo" src="UCI.png"/></td>
             <td data-label="Link"><a href="https://www.uci.edu/" target="_blank">UC Irvine</a></td>
-            <td data-label="Role">Geo AI Research Collaborator with Dr. Nadia Ahmed</td>
+            <td data-label="Role">Research Collaborator with Dr. Nadia Ahmed</td>
             <td data-label="Dates">2024-08 - Present</td>
             <td data-label="Location">Remote</td>
         </tr>
@@ -114,14 +114,14 @@ You can find my detailed CV <a href="https://drive.google.com/file/d/1MJmAwludn_
         <tr>
             <td class="logo-cell" data-label="Company"><img class="customEntitityLogo" src="xfarm.png"/></td>
             <td data-label="Link"><a href="https://xfarm.ag/en" target="_blank">xFarm Technologies</a></td>
-            <td data-label="Role">Geo AI Research Engineer</td>
+            <td data-label="Role">Senior ML Research Engineer</td>
             <td data-label="Dates">2023-12 - Present</td>
             <td data-label="Location">Paris, FR</td>
         </tr>
         <tr>
             <td rowspan=3 class="logo-cell" data-label="Company"><img class="customEntitityLogo" src="ss.png"/></td>
             <td rowspan=3 data-label="Link"><a href="https://www.spacesense.ai/" target="_blank">Spacesense (acquired by xFarm)</a></td>
-            <td data-label="Role">Lead Geo AI Research Engineer</td>
+            <td data-label="Role">ML Lead</td>
             <td data-label="Dates">2021-08 - 2023-12</td>
             <td data-label="Location">Paris, FR</td>
         </tr>
