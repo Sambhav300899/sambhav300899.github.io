@@ -4,13 +4,12 @@
 - [Sample data](#sample-data)
 - [Data Normalisation](#data-normalisation)
 - [Plotting the data](#plotting-the-data)
-- [Conclusions](#conclusions) -->
-&lt;h2 class="relative group">Motive
-&lt;div id="motive" class="anchor">&lt;/div>
+- [Conclusions](#conclusions) --&gt;
+&lt;h2 class="relative group"&gt;Motive
+&lt;div id="motive" class="anchor"&gt;&lt;/div&gt;
 &lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#motive" aria-label="Anchor">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>Does looking at a table comparing model peformance across multiple metrics feel bothersome to you? Lets see how radar plots can help us quickly visually compare model performance across multiple metrics.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sambhav300899.github.io/blog/radar-plots/featured.png"/></item></channel></rss>
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#motive" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;Does looking at a table comparing model peformance across multiple metrics feel bothersome to you? Lets see how radar plots can help us quickly visually compare model performance across multiple metrics.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sambhav300899.github.io/blog/radar-plots/featured.png"/></item></channel></rss>
