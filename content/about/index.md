@@ -44,6 +44,9 @@ showZenMode: false
         max-width: 80px; /* Adjust size as needed */
         height: auto;
     }
+    .experience-table td[data-label="Dates"] {
+        min-width: 10px; /* Added minimum width for dates column */
+    }
     /* Add media query for responsiveness */
     @media (max-width: 600px) {
         .experience-table, .experience-table thead, .experience-table tbody, .experience-table th, .experience-table td, .experience-table tr {
@@ -83,7 +86,7 @@ showZenMode: false
 
 ## Experience
 
-You can find my detailed CV <a href="https://drive.google.com/file/d/1MJmAwludn_qDEmETcdabf_bKFYIlbomV/view" target="_blank">here</a>.
+I am currently pursuing my Master's in Computer Vision at Carnegie Mellon University. You can find my detailed CV <a href="https://drive.google.com/file/d/1MJmAwludn_qDEmETcdabf_bKFYIlbomV/view" target="_blank">here</a>.
 
 
 <table class="experience-table">
@@ -97,70 +100,70 @@ You can find my detailed CV <a href="https://drive.google.com/file/d/1MJmAwludn_
         </tr>
     </thead>
     <tbody>
-        <tr>
+        <!-- <tr>
             <td class="logo-cell" data-label="Company"><img class="customEntitityLogo" src="UCI.png"/></td>
             <td data-label="Link"><a href="https://www.uci.edu/" target="_blank">UC Irvine</a></td>
             <td data-label="Role">Research Collaborator with Dr. Nadia Ahmed</td>
             <td data-label="Dates">2024-08 - Present</td>
             <td data-label="Location">Remote</td>
-        </tr>
-        <tr>
-            <td class="logo-cell" data-label="Company"><img class="customEntitityLogo" src="vve.png"/></td>
-            <td data-label="Link"><a href="https://www.valvodengine.com/" target="_blank">Val-Vod-Engine</a></td>
-            <td data-label="Role">Founder & Solo dev</td>
-            <td data-label="Dates">2024-08 - Present</td>
-            <td data-label="Location">Remote</td>
-        </tr>
+        </tr> -->
         <tr>
             <td class="logo-cell" data-label="Company"><img class="customEntitityLogo" src="xfarm.png"/></td>
             <td data-label="Link"><a href="https://xfarm.ag/en" target="_blank">xFarm Technologies</a></td>
-            <td data-label="Role">Senior ML Research Engineer</td>
-            <td data-label="Dates">2023-12 - Present</td>
-            <td data-label="Location">Paris, FR</td>
-        </tr>
+            <td data-label="Role">ML Research Engineer</td>
+            <td data-label="Dates">Aug 2021-Aug 2025</td>
+            <td data-label="Location">Paris, France</td>
+        <!-- </tr>
+                <tr>
+            <td class="logo-cell" data-label="Company"><img class="customEntitityLogo" src="vve.png"/></td>
+            <td data-label="Link"><a href="https://www.valvodengine.com/" target="_blank">Val-Vod-Engine</a></td>
+            <td data-label="Role">Founder & Solo dev</td>
+            <td data-label="Dates">Aug 2024 - Present</td>
+            <td data-label="Location">Remote</td>
+        </tr> -->
         <tr>
             <td rowspan=3 class="logo-cell" data-label="Company"><img class="customEntitityLogo" src="ss.png"/></td>
-            <td rowspan=3 data-label="Link"><a href="https://www.spacesense.ai/" target="_blank">Spacesense (acquired by xFarm)</a></td>
-            <td data-label="Role">ML Lead</td>
-            <td data-label="Dates">2021-08 - 2023-12</td>
-            <td data-label="Location">Paris, FR</td>
+            <td rowspan=3 data-label="Link"><a href="https://www.spacesense.ai/" target="_blank">Spacesense (acquired by xFarm in 2024)</a></td>
+            <!-- <td data-label="Role">ML Lead</td>
+            <td data-label="Dates">Aug 2021 - Dec 2023</td>
+            <td data-label="Location">Paris, FR</td> -->
         </tr>
         <tr>
             <td data-label="Role">ML Intern</td>
-            <td data-label="Dates">2021-02 - 2021-07</td>
-            <td data-label="Location">Paris, FR</td>
+            <td data-label="Dates">Feb 2021-Jul 2021</td>
+            <td data-label="Location">Paris, France</td>
         </tr>
         <tr>
             <td data-label="Role">Freelance ML Engineer</td>
-            <td data-label="Dates">2020-08 - 2020-10</td>
+            <td data-label="Dates">Aug 2020-Oct 2020</td>
             <td data-label="Location">Remote</td>
         </tr>
         <tr>
             <td class="logo-cell" data-label="Company"><img class="customEntitityLogo" src="nic.png"/></td>
-            <td data-label="Link"><a href="https://www.meity.gov.in/" target="_blank">National Informatics Center, Ministry of Electronics and IT</a></td>
+            <td data-label="Link"><a href="https://www.meity.gov.in/" target="_blank">National Informatics Center</a></td>
             <td data-label="Role">ML Intern</td>
-            <td data-label="Dates">2019-12 - 2020-01</td>
+            <td data-label="Dates">Dec 2019-Jan 2020</td>
             <td data-label="Location">Delhi, India</td>
         </tr>
         <tr>
             <td class="logo-cell" data-label="Company"><img class="customEntitityLogo" src="manipal.jpg"/></td>
             <td data-label="Link"><a href="https://www.manipal.edu/mit/department-faculty/department-list/computer-applications.html" target="_blank">Dept. of Computer Applications, Manipal Institute of Technology</a></td>
             <td data-label="Role">Volunteer Researcher</td>
-            <td data-label="Dates">2019-08 - 2019-11</td>
+            <td data-label="Dates">Aug 2019-Nov 2019</td>
             <td data-label="Location">Manipal, India</td>
         </tr>
         <tr>
             <td class="logo-cell" data-label="Company"><img class="customEntitityLogo" src="tata.png"/></td>
             <td data-label="Link"><a href="https://www.tata.com/" target="_blank">TATA Sons</a></td>
             <td data-label="Role">Computer Vision and Robotics Intern</td>
-            <td data-label="Dates">2019-05 - 2019-07</td>
+            <td data-label="Dates">May 2019-Jul 2019</td>
             <td data-label="Location">Bangalore, India</td>
         </tr>
         <tr>
             <td class="logo-cell" data-label="Company"><img class="customEntitityLogo" src="rugved.jpeg"/></td>
             <td data-label="Link"><a href="https://www.manipal.edu/mit/why/student-projects-manipal-university/rugved-systems.html" target="_blank">RUGVED Systems</a></td>
             <td data-label="Role">AI Subteam Head</td>
-            <td data-label="Dates">2018-01 - 2018-12</td>
+            <td data-label="Dates">Jan 2018-Dec 2018</td>
             <td data-label="Location">Manipal, India</td>
         </tr>
     </tbody>
@@ -197,4 +200,3 @@ You can find my detailed CV <a href="https://drive.google.com/file/d/1MJmAwludn_
 
 
 ---
-
