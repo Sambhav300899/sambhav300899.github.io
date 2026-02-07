@@ -16,13 +16,28 @@ title = "Sambhav Singh Rohatgi"
 
 [params.author]
   name = "Sambhav Singh Rohatgi"
-  email = "sambhav300899@gmail.com"
+  email = "srohatgi@cs.cmu.edu"
   image = "img/2.jpg"
    imageQuality = 96
-   headline = "Hello! I'm Sambhav, a [Master of Science in Computer Vision](https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision/) student at [Carnegie Mellon University](https://www.cmu.edu/)"
+   headline = """
+Hello! I’m Sambhav, an MS in Computer Vision student at
+[Carnegie Mellon University](https://www.cmu.edu/).
+
+I'm currently working on 3D scene understanding and 4D HSI generation \\
+under the guidance of [Professor László A. Jeni](https://www.laszlojeni.com/index.html#lab),
+in collaboration with [Fujitsu](https://global.fujitsu/en-us/local/technology/research).
+
+Previously, I spent 4 amazing years as an ML Research Engineer specializing \\
+in Geospatial AI at SpaceSense in Paris, contributing to work that led \\
+to the company’s acquisition by [xFarm Technologies](https://www.xfarm.ag/en).
+
+For opportunities or collaborations, feel free to reach out at
+srohatgi@cs.cmu.edu
+"""
+
    # bio = "A little bit about you"
    links = [
-    { email = "mailto:sambhav300899@gmail.com" },
+    { email = "mailto:srohatgi@cs.cmu.edu" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
